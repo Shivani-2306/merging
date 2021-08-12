@@ -8,3 +8,5 @@ copy a line: yy
 paste: p
 cut: d
 cut a line: dd
+If you have opened a file in the Vim editor, and want to search a particular word or pattern, the first step that you have to do is to come out of the Insert mode (if you that mode is currently active). 
+Once that is done, type '/' (without quotes) followed by the word/pattern that you want to search.
